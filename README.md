@@ -1,7 +1,6 @@
-# todo app
-using laravel, tailwind css and alphine.js
+# To-Do app
+Made using Laravel, Tailwind CSS and AlphineJS.
 
-## instructions
-
-1. ``composer dev``
-2. navigate to `localhost:8000`
+## Instructions
+1. Run `composer dev`
+2. Navigate to `localhost:8000`
