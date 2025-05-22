@@ -12,7 +12,6 @@ class Todo extends Component
     public function add()
     {
         array_push($this->items, $this->textContent);
-        $this->textContent = "";
     }
 
     public function remove($item)
